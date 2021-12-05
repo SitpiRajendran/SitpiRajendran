@@ -1,4 +1,6 @@
 ### Hi there 👋
+![alt text](linkedin_baneer.jpg)
+
 
 <!--
 **SitpiRajendran/SitpiRajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
