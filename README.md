@@ -1,6 +1,6 @@
 ![alt text](linkedin_baneer.jpg)
 
-### Hey you 👋
+### __Hey you__ 👋
 
 Je suis Sitpi RAJENDRAN, un étudiant en informatique basé à Paris et sur le World Wide Web.
 
@@ -8,7 +8,7 @@ Je suis Sitpi RAJENDRAN, un étudiant en informatique basé à Paris et sur le W
 
 ### Mes réseaux sociaux 👋
 
-<table >
+<table>
  <tr>
     <td>
     <a href="https://linkedin.com/in/SitpiRajendran">
@@ -22,17 +22,11 @@ Je suis Sitpi RAJENDRAN, un étudiant en informatique basé à Paris et sur le W
     </td>
         <td>
     <a href="https://twitter.com/SitpiRajendran">
-        <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
         </a>
     </td>
  </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
 </table>
-[![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SitpiRajendran)
-
 
 
 <!--
