@@ -47,7 +47,7 @@ Je suis Sitpi RAJENDRAN, un étudiant en informatique basé à Paris et sur le W
         <li><a href="https://github.com/SitpiRajendran/epitech-semester2">Semestre 2</a> : Seconde partie de la Tek1 </li>
         <li>Semestre 3 : stage en entreprise </li>
         <li><a href="https://github.com/SitpiRajendran/epitech-semester4">Semestre 4</a> : Tek2 </li>
-        <li>Semestre 5 : Tek3, projet non diffusable</li>
+        <li><a href="https://github.com/SitpiRajendran/epitech-semester5">Semestre 5</a> : Tek3</li>
         </ul>
         </td>
     </tr>
